@@ -18,8 +18,8 @@ main 내용
 - **이름** : 데이터 분석
 - **이름** : Android 개발자
 - **이름** : UX UI Designer
-  
-![개발자 소개](https://github.com/gmlstjq123/INHA_NET_ZERO_HACKATHON/blob/hello_there-12/%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%86%8C%EA%B0%9C.png)
+
+![스크린샷 2024-01-12 093241](https://github.com/seoeunseol/BOJ-step-cpp/assets/112358145/5a186585-016f-4a36-a45e-68a9f143eb45)
 
 ## 💻 개발환경
 - **Version** : Java 17
@@ -35,7 +35,7 @@ main 내용
 - **아이디어 회의** : Slack, Zoom, Notion
 
 ## 📝 프로젝트 아키텍쳐
-![프로젝트 아키텍쳐](https://github.com/gmlstjq123/INHA_NET_ZERO_HACKATHON/blob/hello_there-12/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.png)
+![스크린샷 2024-01-12 093241](https://github.com/seoeunseol/BOJ-step-cpp/assets/112358145/5a186585-016f-4a36-a45e-68a9f143eb45)
 
 ## 📌 주요 기능
 - 주요기능1
@@ -45,7 +45,7 @@ main 내용
   - 주요기능 설명
       
 ## ✒️ API
-- API 상세설명 : <https://velog.io/@gmlstjq123/INHA-SW-NET-Zero-%EA%B3%B5%EB%8F%99%ED%95%B4%EC%BB%A4%ED%86%A4-Server-%EC%BD%94%EB%93%9C#3-%ED%92%88%EB%AA%A9%EB%B3%84-%EB%9E%AD%ED%82%B9-%EC%A1%B0%ED%9A%8C>
+- API 상세설명 : <링크>
 
 
 - API 명세서 : <https://makeus-challenge.notion.site/API-ecafb2a8fb8c427c9e78abf6120d674b>
