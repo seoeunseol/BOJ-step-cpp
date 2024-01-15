@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    string s;
+    string s; // ¾ÈÇØµµ µÊ
 
     for (int i = 0; i < 100; i++) {
         getline(cin, s);
