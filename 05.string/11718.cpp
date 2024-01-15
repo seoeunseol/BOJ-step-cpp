@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string> // getline()을 위한 헤더
+#include <string> // getline() 헤더
 using namespace std;
 
 int main() {
