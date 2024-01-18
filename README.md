@@ -9,7 +9,7 @@
 | 3 |[반복문](https://github.com/seoeunseol/BOJ-step-cpp/tree/main/03_iteration)|✅|
 | 4 |[1차원 배열](https://github.com/seoeunseol/BOJ-step-cpp/tree/main/04_one_dimensional_array)|✅|
 | 5 |[문자열](https://github.com/seoeunseol/BOJ-step-cpp/tree/main/05.string)|✅|
-| 6 |[심화 1]()|
+| 6 |[심화 1]|✅|
 | 7 |[2차원 배열]()|
 | 8 |[일반 수학 1]()|
 | 9 |[약수, 배수와 소수]()|
