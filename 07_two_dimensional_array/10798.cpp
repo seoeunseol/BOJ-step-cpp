@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-	char mtrx[5][15] = { 0 }; // 영어 대소문자, 숫자
+	char mtrx[5][15] = { 0 };
 
 	for (int i = 0; i < 5; i++) {
 		cin >> mtrx[i];
